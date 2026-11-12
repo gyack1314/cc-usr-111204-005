@@ -1,0 +1,13 @@
+{
+  "file": "invalid-signature.bin",
+  "accepted_grid_templates": [
+    0
+  ],
+  "accepted_product_templates": [
+    0
+  ],
+  "accepted_packing_templates": [
+    0
+  ],
+  "max_message_bytes": 1000000
+}
